@@ -2380,7 +2380,7 @@ https://pro.zqprem.com/ZQDrama-app/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/851vFF5J/atv.png" group-title="HIBURAN INDO",ATV [Nin]
 #http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
 https://bravo.kugo.id/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/d3fZS49r/logo-bioskopindonesia-big1.png" group-title="XXXL INDO",Bioskop Indonesia [Usee]
+#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/d3fZS49r/logo-bioskopindonesia-big1.png" group-title="HIBURAN INDO",Bioskop Indonesia [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia
 #https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia
 #http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8
