@@ -2374,14 +2374,10 @@ https://lnk.ec/waku2?shareext.ts
 https://pro.zqprem.com/ZQDrama-app/tracks-v1a1/mono.m3u8
 
 
-#--------" XXXL INDO "--------
+#--------" HIBURAN INDO "--------
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Aziz HTB Channel
-https://youtube.com/c/AzizHTBChannel
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/851vFF5J/atv.png" group-title="XXXL INDO",ATV [Nin]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/851vFF5J/atv.png" group-title="HIBURAN INDO",ATV [Nin]
 #http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
 https://bravo.kugo.id/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/d3fZS49r/logo-bioskopindonesia-big1.png" group-title="XXXL INDO",Bioskop Indonesia [Usee]
@@ -2391,7 +2387,7 @@ https://bravo.kugo.id/atv/udp.stream_360p/playlist.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #https://lnk.ec/bioskopIndo?shareext.ts
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xvq94ZYd/CITRA-BIOSKOP.png" group-title="XXXL INDO",Citra BIOSKOP [Vidio]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xvq94ZYd/CITRA-BIOSKOP.png" group-title="HIBURAN INDO",Citra BIOSKOP [Vidio]
 #https://cmt.mb13.cyou/uni/ku/see/uvf.php?a=vidio-6684&b=6684
 #https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6684_720p/index.m3u8
 #https://znjjprwzgeyyp.vidio.com/live/6684/master.m3u8
@@ -2402,7 +2398,7 @@ https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 #https://omahtv.xyz/stream/vidio-citrabioskop-golive.m3u8
 #http://tvnasional.mobie.in/M3U8/bioskop.m3u8
 http://tvnid.wapgem.com/vidio/2.m3u8
-#EXTINF:-1 tvg-id="cdrama" tvg-logo="https://i.postimg.cc/3Rnv2K4L/logo-citradrama-big.png" group-title="XXXL INDO",Citra DRAMA [Vidio]
+#EXTINF:-1 tvg-id="cdrama" tvg-logo="https://i.postimg.cc/3Rnv2K4L/logo-citradrama-big.png" group-title="HIBURAN INDO",Citra DRAMA [Vidio]
 #https://cmt.mb13.cyou/uni/ku/see/uvf.php?a=vidio-6401&b=6401
 #https://livestreaming-swiftserve-etslive.vidio.com/live/6401/master.m3u8
 #https://znjjprwzgeyyp.vidio.com/live/6401/master.m3u8
@@ -2413,14 +2409,14 @@ http://tvnid.wapgem.com/vidio/2.m3u8
 #https://omahtv.xyz/stream/vidio-citra-drama-golive.m3u8
 #http://tvnasional.mobie.in/PREMIER_VIDIO/cdrama.m3u8
 http://tvnid.wapgem.com/vidio/3.m3u8
-#EXTINF:-1 tvg-id="cdrama" tvg-logo="https://i.postimg.cc/3Rnv2K4L/logo-citradrama-big.png" group-title="XXXL INDO",Citra DRAMA [Usee]
+#EXTINF:-1 tvg-id="cdrama" tvg-logo="https://i.postimg.cc/3Rnv2K4L/logo-citradrama-big.png" group-title="HIBURAN INDO",Citra DRAMA [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==cdrama&b=14&c=cdrama
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=cdrama&bandwidth=default&sync=0
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjpR38BQ/C-ENTERTAINMENT.png" group-title="XXXL INDO",Citra Entertainment [Vidio]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjpR38BQ/C-ENTERTAINMENT.png" group-title="HIBURAN INDO",Citra Entertainment [Vidio]
 #https://cmt.mb13.cyou/uni/ku/see/uvf.php?a=vidio-6402&b=6402
 #https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
 #https://znjjprwzgeyyp.vidio.com/live/6402/master.m3u8
@@ -2430,7 +2426,7 @@ http://tvnid.wapgem.com/vidio/3.m3u8
 #https://newlivetv.my.id/vidio/6402-LiveTV.m3u8?livetv
 #https://omahtv.xyz/stream/vidio-citra-entertainment-golive.m3u8
 http://tvnasional.mobie.in/PREMIER_VIDIO/citraenter.m3u8
-#EXTINF:-1 tvg-id="dunialain" tvg-logo="https://i.postimg.cc/sXBP9BFs/logo-dunialain-big.png" group-title="XXXL INDO",DUNIA LAIN [Usee]
+#EXTINF:-1 tvg-id="dunialain" tvg-logo="https://i.postimg.cc/sXBP9BFs/logo-dunialain-big.png" group-title="HIBURAN INDO",DUNIA LAIN [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==dunialain&b=15&c=dunialain
 #https://nonton.site:8443/provision/pp/910
 #https://radenroro.net/RHS/homempd.m3u8?channel=dunialain
@@ -2441,20 +2437,20 @@ https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="eatgo" tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="XXXL INDO",Eat&GO [Usee]
+#EXTINF:-1 tvg-id="eatgo" tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="HIBURAN INDO",Eat&GO [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==eatgo&b=14&c=eatgo
 #http://iptvtree.net:8080/Ainamanja/6a4fef36/264765
 #https://radenroro.net/RHS/homempd.m3u8?channel=eatgo
 #http://bonev2.xyz/playlist/usee-eatgo-new-bonetv.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
 https://cubmu.superzap.xyz:8279/eatgo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfZD2WR6/ENTERTAINMENT.png" group-title="XXXL INDO",Entertainment [VSN+]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfZD2WR6/ENTERTAINMENT.png" group-title="HIBURAN INDO",Entertainment [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 
-#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.postimg.cc/PJJ84B1d/logo-flik-big1.png" group-title="XXXL INDO",FLIK [Usee]
+#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.postimg.cc/PJJ84B1d/logo-flik-big1.png" group-title="HIBURAN INDO",FLIK [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==flik&b=15&c=flik
 #http://iptvtree.net:8080/Ainamanja/6a4fef36/165095
 #http://iptvtree.net:8080/test-220471/4008/264769
@@ -2463,7 +2459,7 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 
 
-#EXTINF:-1 tvg-id="imc" tvg-logo="https://i.postimg.cc/rpGWFG82/logo-imc-big.png" group-title="XXXL INDO",IMC [Usee]
+#EXTINF:-1 tvg-id="imc" tvg-logo="https://i.postimg.cc/rpGWFG82/logo-imc-big.png" group-title="HIBURAN INDO",IMC [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==imc&b=15&c=imc
 #http://iptvtree.net:8080/Ainamanja/6a4fef36/264769
 #https://radenroro.net/RHS/homempd.m3u8?channel=imc
@@ -2472,52 +2468,52 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 https://lnk.ec/imc?shareext.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx8r6DGw/INFOTAINMENT.png" group-title="XXXL INDO",Infotainment [VSN+]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx8r6DGw/INFOTAINMENT.png" group-title="HIBURAN INDO",Infotainment [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5BNNgX2/MCINE-CHANNEL.png" group-title="XXXL INDO",MCINE CHANNEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5BNNgX2/MCINE-CHANNEL.png" group-title="HIBURAN INDO",MCINE CHANNEL
 
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/43g1BVLn/oktv.png" group-title="XXXL INDO",OKTV [VSN+]
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/43g1BVLn/oktv.png" group-title="HIBURAN INDO",OKTV [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
-#EXTINF:-1  tvg-logo="" group-title="XXXL INDO",RANS ENT
+#EXTINF:-1  tvg-logo="" group-title="HIBURAN INDO",RANS ENT
 https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
 
 
-#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.postimg.cc/T3RrNN8k/SINEMA-INDONESIA.png" group-title="XXXL INDO",SINEMA INDONESIA
+#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.postimg.cc/T3RrNN8k/SINEMA-INDONESIA.png" group-title="HIBURAN INDO",SINEMA INDONESIA
 http://210.210.155.35/session/244787a4-8f64-11eb-b4f6-8e4b932c4759/uq2663/h/h155/S4/mnf.m3u8
 
 
-#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://i.postimg.cc/9FPdp5kR/SINEMA-INDONESIA-X.png" group-title="XXXL INDO",SINEMA INDONESIA X
+#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://i.postimg.cc/9FPdp5kR/SINEMA-INDONESIA-X.png" group-title="HIBURAN INDO",SINEMA INDONESIA X
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRMcV/vidio.png" group-title="XXXL INDO", Vidio Entertainment [Vidio]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRMcV/vidio.png" group-title="HIBURAN INDO", Vidio Entertainment [Vidio]
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHxc0YSy/VISION-PRIME.png" group-title="XXXL INDO",VISION PRIME [VSN+]
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHxc0YSy/VISION-PRIME.png" group-title="HIBURAN INDO",VISION PRIME [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
-#EXTINF:-1 tvg-id="zbioskop" tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="XXXL INDO",ZEEBIOSKOP [Dens]
+#EXTINF:-1 tvg-id="zbioskop" tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="HIBURAN INDO",ZEEBIOSKOP [Dens]
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="zbioskop" tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="XXXL INDO",ZEEBIOSKOP [VSN+]
+#EXTINF:-1 tvg-id="zbioskop" tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="HIBURAN INDO",ZEEBIOSKOP [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
