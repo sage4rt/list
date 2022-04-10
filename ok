@@ -54,16 +54,8 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #EXTINF:-1   tvg-logo="" group-title="MUSIK ASIK",Dangdut TIVI [Nin]
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSFXGs1H/EU-MUSIC.png" group-title="MUSIK ASIK",EU Music
 #http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="ikonser" tvg-logo="https://i.postimg.cc/SNM8mxhD/logo-ikonser-big.png" group-title="MUSIK ASIK",I-KONSER [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-ikonser&b=14&c=ikonser
@@ -73,9 +65,6 @@ http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0w7vvkN/KARAOKE.png" group-title="MUSIK ASIK",KARAOKE
 #http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="MUSIK ASIK",MALEO TV
 #https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.m3u8
 https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
@@ -83,25 +72,14 @@ https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title="MUSIK ASIK",MOLATV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIK ASIK",MTV Asia
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIK ASIK",MTV
 #http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png" group-title="MUSIK ASIK",MTV BIGGEST POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/K81SqCy6/MTV-CLUB.png" group-title="MUSIK ASIK",MTV club
-
-
-
 
 #EXTINF:-1 tvg-id="mtvlive" tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIK ASIK",MTV LIVE HD
 #https://fikrulmkc.my.id/bagus/usee-mtvlive.m3u8
@@ -114,9 +92,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/htG04ykP/MTV-BLOCK-PARTY.png" group-title="MUSIK ASIK",MTV BLOCK PARTY
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jr8t2cH/MUSIC-TV.png" group-title="MUSIK ASIK",MUSIC TV [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -133,11 +108,6 @@ https://v2.catcast.tv/content/33816/index.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/wjnKSFq7/MUSIK-D-TIVI.png" group-title="MUSIK ASIK",Musik d TIVI
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIK ASIK",POP MUSIK
 #https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
@@ -177,13 +147,8 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
 
-
-
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="MUSIC",Channel 4U
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHSpDU0gbDPFV38D8XMlNUE3jOw-loekCL6Bme7ZG0Gj5KWxT&s" group-title="MUSIC",Dijlah MUSIC
 https://ghaasiflu.online/tarab/index.m3u8
@@ -192,20 +157,11 @@ https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OPymV242XCHrDqXnqkyDnyTogjiyamAdpeEnq9NrvSozwjg&s" group-title="MUSIC",EBC 1 MUSIC
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",FMITALIA TV
 #http://flash8.streaming.xdevel.com/fmitalia/fmitalia/chunklist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",GO TV MUSIC
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Kral Pop
 #https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
@@ -269,9 +225,6 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",PortalFoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",RADIO51 TV 2
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
@@ -850,8 +803,6 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/qehHvVo.png" group-title="Movies",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO HD
@@ -897,13 +848,7 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-id="galaxypremium" tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="Movies",Galaxy Premium HD
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-
-
-
 #-----------------------------------KIDS---------------------------#
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2465,9 +2410,6 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5BNNgX2/MCINE-CHANNEL.png" group-title="HIBURAN INDO",MCINE CHANNEL
 
-
-
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/43g1BVLn/oktv.png" group-title="HIBURAN INDO",OKTV [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -2483,9 +2425,6 @@ http://210.210.155.35/session/244787a4-8f64-11eb-b4f6-8e4b932c4759/uq2663/h/h155
 
 
 #EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://i.postimg.cc/9FPdp5kR/SINEMA-INDONESIA-X.png" group-title="HIBURAN INDO",SINEMA INDONESIA X
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRMcV/vidio.png" group-title="HIBURAN INDO", Vidio Entertainment [Vidio]
 
@@ -2569,7 +2508,6 @@ http://cdn.adultiptv.net/fetish.m3u
 http://cdn.adultiptv.net/cuckold.m3u8
 
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mDxPyLDy/ZEECINEMA.png" group-title="XXXL",INTERICAL
 http://cdn.adultiptv.net/interracial.m3u8
 
@@ -2586,10 +2524,6 @@ http://cdn.adultiptv.net/bigtits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTyTxXs/zing.png" group-title="XXXL",GAY
 http://cdn.adultiptv.net/gay.m3u8
-
-
-
-
 
 
 #--------" INDIA MOVIES "--------
