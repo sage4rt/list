@@ -364,18 +364,21 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Indo",SCTV
 http://202.150.161.116:80/SCTV/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="LOKAL",SCTV Vidio
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indo",SCTV Vidio
 http://202.150.161.116:80/SCTV/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Indo" tvg-logo="https://www.useetv.com/pimages/logo_imc_big.png?v=1",IMC
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.ypaRCHWg_Ghhs0gdmA_89AHaD1&pid=Api&P=0&w=278&h=144" group-title="DRAMA",MNC Entertainment
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.ypaRCHWg_Ghhs0gdmA_89AHaD1&pid=Api&P=0&w=278&h=144" group-title="Indo",MNC Entertainment
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 
