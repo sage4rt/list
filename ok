@@ -3,6 +3,8 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg
 #EXTM3U
+#EXTINF:0,group-title="Film",Fox Movies HD
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
 
 #--------" MUSIK ASIK "--------
