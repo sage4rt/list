@@ -21,7 +21,7 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTW6yb3g/B4-U-MUSIC.png" group-title="MUSIK ASIK",B4U Music
 
 #EXTINF:-1   tvg-logo="" group-title="MUSIK ASIK",C Musik [Nin]
-http://bravo.kugo.id:1935/cmusik/udp.stream_360p/chunklist_w1081822131.m3u8
+http://bravo.kugo.id:1935/cmusik/udp.stream_360p/chunklist_w1081822131.m3u86
 
 
 #EXTINF:-1 tvg-id="citradangdut" tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" group-title="MUSIK ASIK",Citra Dangdut [Vidio]
@@ -366,7 +366,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Indo",SCTV
-http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
+http://202.150.161.116:80/SCTV/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
