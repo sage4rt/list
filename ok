@@ -223,6 +223,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 ######################MOVIES##########################
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1LEWJlkswy9HpOjWyzrWuAtJDVBioDk1f" group-title="MOVIES" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia HD
 http://rr.dens.tv/h/h193/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
