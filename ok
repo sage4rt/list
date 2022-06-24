@@ -5,6 +5,10 @@
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useeprime_small1.png?v=2.0.0.13" group-title="INDO",USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="INDO" tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/7cLsY1Q.png?v=1.0.0.1", OKTV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1   tvg-logo="" group-title="INDO",MakkahTv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
@@ -214,6 +218,17 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 ######################MOVIES##########################
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1LEWJlkswy9HpOjWyzrWuAtJDVBioDk1f" group-title="MOVIES" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia HD
+http://rr.dens.tv/h/h193/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1AuMQdFxqCzJ1USjEOvFrT1BgocNxNuav" group-title="MOVIES" tvg-id="mycinema" tvg-name="mycinema", My Cinema HD
+http://rr.dens.tv/h/h192/index.m3u8
+
+
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="myfamilychannel" tvg-logo="https://drive.google.com/uc?id=12niIlbiEdGCYCSlSGBrdXwhFJ2IeiPN5" group-title="MOVIES", My Family Channel
+http://210.210.155.35/session/fff605d2-66ff-11ec-bc1c-c81f66f89318/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
