@@ -588,8 +588,8 @@ http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="MUSIC",MALEO TV
-#https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.m3u8
-https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title="MUSIC",MOLATV
 http://ventdelnord.tv:8080/mola/directe.m3u8
