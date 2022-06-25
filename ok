@@ -226,8 +226,10 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="TV PARLEMEN" tvg-name="TV PARLEMEN" tvg-url="http://www.firstmedia.com" tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="INDO",TV PARLEMEN
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
-######################MOVIES##########################
+###########################MOVIES##################################
 
+#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="MOVIES", &Flix HD
+http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-channel_2105335046
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-ID="CHN" tvg-logo="https://haleemsat.com/wp-content/uploads/2021/01/SONY-PIX-HD-New-Frequency-Updated-2021-350x470.png" group-title="MOVIES",SONY PIX HD
