@@ -1,4 +1,8 @@
-
+#EXTINF:0 tvg-id="167" tvg-name="Zee TV HD" group-title="Entertainment;HD Channels" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" radio="false" catchup="default" catchup-source="plugin://plugin.video.jiotv/catchup/Zee_TV_HD/{utc}" catchup-days="7",Zee TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://127.0.0.1:48996/play/Zee_TV_HD/master.m3u8?maxq=1200
 #-##############" INDONESIA "###################
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useephoto_small.png?v=2.0.0.13" group-title="INDO",USEE PHOTO
