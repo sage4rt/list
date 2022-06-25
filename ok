@@ -438,8 +438,8 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 http://rr.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="MOVIES",KPlus
-http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
-
+#http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117539
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFLg0FP.png" group-title="MOVIES",MOVIE SPHERE
 https://MOVIESphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 
