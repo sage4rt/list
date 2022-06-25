@@ -228,6 +228,14 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 ###########################MOVIES##################################
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="MOVIES", Zee Cinema HD [Int]
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="MOVIES", Zee Cinema HD
+http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="MOVIES", Zee HD
+http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-zeetvhd
 #EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="MOVIES", &Flix HD
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-channel_2105335046
 #KODIPROP:inputstream.adaptive.license_type=clearkey
