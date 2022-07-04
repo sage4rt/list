@@ -238,10 +238,10 @@ http://103.159.4.38:9191/CH29-IN-HIN1/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="MOVIES", Zee Cinema HD [Int]
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="MOVIES", Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="MOVIES", Zee Cinema HD1
 http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="MOVIES", Zee HD
+#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="MOVIES", Zee HD1
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-zeetvhd
 #EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="MOVIES", &Flix HD
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-channel_2105335046
@@ -294,15 +294,15 @@ https://ktiptv.cf:443/live/161/161/73873.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MOVIES",Flik
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MOVIES",Flik 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://ktiptv.cf:443/live/161/161/73872.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-https://on-load.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -402,7 +402,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMOVIES/sa_dash_vmx/tvNMOVIES.mpd
 #EXTINF:0 tvg-id="KIX" tvg-name="KIX" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/kix.png" group-title="MOVIES",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES",FLIK
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES",FLIK 1
 http://iptvid.my.id/ch/flik.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="MOVIES",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
