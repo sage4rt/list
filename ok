@@ -376,8 +376,8 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="HITS MOVIES" tvg-name="HITS MOVIES" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/hitsMOVIES.png" group-title="MOVIES",HITS MOVIES
-https://liveanevia.mncnow.id/live/eds/HitsMOVIES/sa_dash_vmx/HitsMOVIES.mpd
+#EXTINF:0 tvg-id="HITS MOVIES" tvg-name="HITS MOVIES" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/hitsMovies.png" group-title="MOVIES",HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -469,7 +469,7 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP
+#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP 1
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_INDO.png/revision/latest?cb=20181017152803",Sinema INDO
@@ -517,8 +517,8 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HitsMOVIES.sg" tvg-name="HITS MOVIES" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="MOVIES",HITS MOVIES
-https://liveanevia.mncnow.id/live/eds/HitsMOVIES/sa_dash_vmx/HitsMOVIES.mpd
+#EXTINF:-1 tvg-id="HitsMOVIES.sg" tvg-name="HITS MOVIES" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="MOVIES",HITS MOVIES 2
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
