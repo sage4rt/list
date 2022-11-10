@@ -227,7 +227,13 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 ###########################MOVIES##################################
-#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="MOVIES", &Pictures HD [Zee5]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Iqiyi_Logo_Baru.png" group-title="MOVIES",IQIYI
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
+http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290508
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/15222
+
+#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="MOVIES", &Pictures
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-tvpictureshd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="MOVIES", Star Gold HD [Int]
