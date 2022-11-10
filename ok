@@ -237,9 +237,13 @@ http://103.159.4.38:9191/CH29-IN-HIN1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="MOVIES", Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="MOVIES", Zee Cinema HD
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+#https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="MOVIES", Zee Cinema HD1
-http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+#http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="ZEECINEMA.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="SaniMpd",Zee Cinema HD
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="MOVIES", Zee HD1
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-zeetvhd
