@@ -232,10 +232,12 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290508
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/15222
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="film+" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/film-plus-vipotv.png"group-title="MOVIES", Film+
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="moviesphere"tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png"group-title="MOVIES", MovieSphere1
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
