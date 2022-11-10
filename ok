@@ -233,10 +233,10 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290508
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/15222
 
-#EXTINF:-1 tvg-id="film+"group-title="MOVIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/film-plus-vipotv.png",Film+
+#EXTINF:-1 tvg-id="film+" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/film-plus-vipotv.png"group-title="MOVIES", Film+
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
-#EXTINF:-1 tvg-id="moviesphere"group-title="MOVIES" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",MovieSphere1
+#EXTINF:-1 tvg-id="moviesphere"tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png"group-title="MOVIES", MovieSphere1
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="MOVIES", &Pictures
@@ -246,7 +246,7 @@ http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-tvpictureshd
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="MOVIES", Star Plus HD
 http://103.159.4.38:9191/CH29-IN-HIN1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kpluskorea"group-title="MOVIES" tvg-logo="https://images.useetv.com/tvposter/k+.png",K+ Korea
+#EXTINF:-1 tvg-id="kpluskorea" tvg-logo="https://images.useetv.com/tvposter/k+.png"group-title="MOVIES",K+ Korea
 http://playlist.urfan.web.id/uq2663/h/h08/index.m3u8
 
 
