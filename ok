@@ -233,6 +233,12 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290508
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/15222
 
+#EXTINF:-1 tvg-id="film+"group-title="MOVIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/film-plus-vipotv.png",Film+
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+
+#EXTINF:-1 tvg-id="moviesphere"group-title="MOVIES" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",MovieSphere1
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="MOVIES", &Pictures
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-tvpictureshd
 
