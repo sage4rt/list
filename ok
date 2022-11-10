@@ -242,7 +242,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="MOVIES", &Pictures
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-tvpictureshd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="MOVIES", Star Gold HD [Int]
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="MOVIES", Star Gold
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="MOVIES", Star Plus HD
 http://103.159.4.38:9191/CH29-IN-HIN1/tracks-v1a1/mono.m3u8
