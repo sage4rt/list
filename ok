@@ -1,3 +1,7 @@
+
+#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+
+
 #EXTINF:0 tvg-id="167" tvg-name="Zee TV HD" group-title="Entertainment;HD Channels" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" radio="false" catchup="default" catchup-source="plugin://plugin.video.jiotv/catchup/Zee_TV_HD/{utc}" catchup-days="7",Zee TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
