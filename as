@@ -164,7 +164,7 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV 
+#EXTINF:-1 group-title="National TV" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV 
 https://sub.home-tv.my.id/first/sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
