@@ -170,8 +170,8 @@ https://sub.home-tv.my.id/first/sctv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-
+#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+https://m3u-editor.com/serve/47b9da10-dc6b-11ed-80fe-0183c944ea23/822656776
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://i.imgur.com/D70rSkE.png" group-title="National TV",moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
