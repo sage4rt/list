@@ -28,7 +28,9 @@
 
 
 #EXTM3U 
-url-tvg="https://raw.githubusercontent.com/GODRIL01/trial/main/godrilEpg.xml
+x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+
+
 
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
